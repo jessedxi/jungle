@@ -1,6 +1,7 @@
 # Jungle
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+This project offered equally the opportunity to learn a new language and framework, while also simulating a real world experience where I may need to quickly and efficiently acquire these skills to complete a new task, while working with legacy code.
 
 ## Additional Steps for Apple M1 Machines
 
@@ -31,3 +32,20 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Final Product
+
+![Home](https://github.com/jessedxi/jungle/blob/master/docs/jungle_home.png "Home")
+
+![Cart](https://github.com/jessedxi/jungle/blob/master/docs/jungle_empty_cart.png "Empty Cart")
+
+![Cart_Full](https://github.com/jessedxi/jungle/blob/master/docs/jungle_cart.png "Cart")
+
+![Sign_Errors](https://github.com/jessedxi/jungle/blob/master/docs/jungle_signup_errors.png "Error Handling")
+
+![Signed_In](https://github.com/jessedxi/jungle/blob/master/docs/signed_in_jungle.png "Signed In")
+
+![Admin](https://github.com/jessedxi/jungle/blob/master/docs/admin.png "Admin")
+
+![Admin_Products](https://github.com/jessedxi/jungle/blob/master/docs/admin_products.png "Admin Products Control")
+
